@@ -1246,7 +1246,7 @@ position = Vector2(246, 157)
 shape = SubResource("RectangleShape2D_272bh")
 
 [node name="CharacterBody2D" parent="." instance=ExtResource("3_h2yge")]
-position = Vector2(100, 220)
+position = Vector2(104, 223)
 
 [node name="Camera2D" type="Camera2D" parent="CharacterBody2D"]
 position_smoothing_enabled = true
